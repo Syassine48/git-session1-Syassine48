@@ -20,5 +20,7 @@ git status
 ## Useful link
 [Pro Git book](https://git-scm.com/book/en/v2)
 
+# Edited on GitHub
+
 ## Project banner
 ![Project banner](assets/project-banner.svg)
